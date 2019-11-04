@@ -1,9 +1,10 @@
 {
   "name": "crease",
   "description": "The super lightweight, fully tested, simple, and easy CSS by JS module. Create CSS with Ease.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "script.js",
   "author": "Patrick Trester",
+  "license": "MIT",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/uraikus/crease.git"
